@@ -4,7 +4,7 @@
 🔥🔥🔥 This repo lists some awesome Anchor-Free object detection projects.
 
 ## Contents
-- [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
+- [Awesome-Anchor-Free-Object-Detection](#awesome-anchor-free-object-detection)
     - [Frameworks](#frameworks)
     - [Applications](#applications)
 
