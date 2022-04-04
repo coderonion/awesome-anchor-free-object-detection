@@ -57,10 +57,9 @@
 
   - [DAFNe](https://github.com/steven-lang/DAFNe) <img src="https://img.shields.io/github/stars/steven-lang/DAFNe?style=social"/> : "DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection". (**[arXiv 2021](https://arxiv.org/abs/2109.06148)**)
 
-  - [DAFNe](https://github.com/SamsungLabs/fcaf3d) <img src="https://img.shields.io/github/stars/SamsungLabs/fcaf3d?style=social"/> : "FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection". (**[arXiv 2021](https://arxiv.org/abs/2112.00322)**)
+  - [FCAF3D](https://github.com/SamsungLabs/fcaf3d) <img src="https://img.shields.io/github/stars/SamsungLabs/fcaf3d?style=social"/> : "FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection". (**[arXiv 2021](https://arxiv.org/abs/2112.00322)**)
 
   - [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) <img src="https://img.shields.io/github/stars/RangiLyu/nanodet?style=social"/> : NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥.
-
 
 
 ## Applications
