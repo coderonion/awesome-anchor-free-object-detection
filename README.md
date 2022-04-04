@@ -1,13 +1,12 @@
 # Awesome-Anchor-Free-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repo lists some awesome Anchor-Free object detection projects.
+🔥🔥🔥 This repo lists some awesome Anchor-Free series projects.
 
 ## Contents
 - [Awesome-Anchor-Free-Object-Detection](#awesome-anchor-free-object-detection)
     - [Frameworks](#frameworks)
     - [Applications](#applications)
-
 
 ## Frameworks
 
@@ -63,6 +62,12 @@
 
 
 ## Applications
+
+  - [CenterTrack](https://github.com/xingyizhou/CenterTrack) <img src="https://img.shields.io/github/stars/xingyizhou/CenterTrack?style=social"/> : "Tracking Objects as Points". (**[ECCV 2020](https://arxiv.org/abs/2004.01177)**)
+
+  - [FairMOT](https://github.com/ifzhang/FairMOT) <img src="https://img.shields.io/github/stars/ifzhang/FairMOT?style=social"/> : "FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking". (**[IJCV 2021](https://arxiv.org/abs/2004.01888)**)
+
+  - [TraDeS](https://github.com/JialianW/TraDeS) <img src="https://img.shields.io/github/stars/JialianW/TraDeS?style=social"/> : "Track to Detect and Segment: An Online Multi-Object Tracker". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Track_To_Detect_and_Segment_An_Online_Multi-Object_Tracker_CVPR_2021_paper.html)**)
 
   - [CaptainEven/MCMOT](https://github.com/CaptainEven/MCMOT) <img src="https://img.shields.io/github/stars/DataXujing/CornerNet-Lite-Pytorch?style=social"/> : Real time one-stage multi-class & multi-object tracking based on anchor-free detection and ReID.
 
