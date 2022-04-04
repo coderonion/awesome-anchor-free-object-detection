@@ -1,12 +1,13 @@
 # Awesome-Anchor-Free-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repo lists some awesome Anchor-Free series projects.
+🔥🔥🔥 This repository lists some awesome Anchor-Free series projects.
 
 ## Contents
 - [Awesome-Anchor-Free-Object-Detection](#awesome-anchor-free-object-detection)
     - [Frameworks](#frameworks)
     - [Applications](#applications)
+    - [Others](#others)
 
 ## Frameworks
 
@@ -63,6 +64,8 @@
 
 ## Applications
 
+  - [TracKit](https://github.com/researchmm/TracKit) <img src="https://img.shields.io/github/stars/researchmm/TracKit?style=social"/> : "Ocean: Object-aware Anchor-free Tracking". (**[ECCV 2020](https://arxiv.org/abs/2006.10721)**)
+
   - [CenterTrack](https://github.com/xingyizhou/CenterTrack) <img src="https://img.shields.io/github/stars/xingyizhou/CenterTrack?style=social"/> : "Tracking Objects as Points". (**[ECCV 2020](https://arxiv.org/abs/2004.01177)**)
 
   - [FairMOT](https://github.com/ifzhang/FairMOT) <img src="https://img.shields.io/github/stars/ifzhang/FairMOT?style=social"/> : "FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking". (**[IJCV 2021](https://arxiv.org/abs/2004.01888)**)
@@ -72,3 +75,12 @@
   - [CaptainEven/MCMOT](https://github.com/CaptainEven/MCMOT) <img src="https://img.shields.io/github/stars/DataXujing/CornerNet-Lite-Pytorch?style=social"/> : Real time one-stage multi-class & multi-object tracking based on anchor-free detection and ReID.
 
   - [DataXujing/CornerNet-Lite-Pytorch](https://github.com/DataXujing/CornerNet-Lite-Pytorch) <img src="https://img.shields.io/github/stars/DataXujing/CornerNet-Lite-Pytorch?style=social"/> : 🚨🚨🚨 CornerNet:基于虚拟仿真环境下的自动驾驶交通标志识别。
+
+
+## Others
+
+  - [XinZhangNLPR/awesome-anchor-free-object-detection](https://github.com/XinZhangNLPR/awesome-anchor-free-object-detection) <img src="https://img.shields.io/github/stars/XinZhangNLPR/awesome-anchor-free-object-detection?style=social"/> : In this project, we focus on collection the anchor free object detection paper or code. 
+
+  - [VCBE123/AnchorFreeDetection](https://github.com/VCBE123/AnchorFreeDetection) <img src="https://img.shields.io/github/stars/VCBE123/AnchorFreeDetection?style=social"/> : list the paper for recently anchor free detector.
+
+
