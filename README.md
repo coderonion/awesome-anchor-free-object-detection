@@ -1,7 +1,7 @@
 # Awesome-Anchor-Free-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome Anchor-Free series projects.
+🔥🔥🔥 This repository lists some awesome Anchor-Free object detection series projects.
 
 ## Contents
 - [Awesome-Anchor-Free-Object-Detection](#awesome-anchor-free-object-detection)
@@ -26,6 +26,8 @@
   - [ExtremeNet](https://github.com/xingyizhou/ExtremeNet) <img src="https://img.shields.io/github/stars/xingyizhou/ExtremeNet?style=social"/> : "Bottom-up Object Detection by Grouping Extreme and Center Points". (**[CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_Bottom-Up_Object_Detection_by_Grouping_Extreme_and_Center_Points_CVPR_2019_paper.html)**)
 
   - [RepPoints](https://github.com/microsoft/RepPoints) <img src="https://img.shields.io/github/stars/microsoft/RepPoints?style=social"/> : "Bottom-up Object Detection by Grouping Extreme and Center Points". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Yang_RepPoints_Point_Set_Representation_for_Object_Detection_ICCV_2019_paper.html)**)
+
+  - [CenterNet3d](https://github.com/wangguojun2018/CenterNet3d) <img src="https://img.shields.io/github/stars/wangguojun2018/CenterNet3d?style=social"/> : "CenterNet3D: An Anchor free Object Detector for Autonomous Driving". (**[arXiv 2020](https://arxiv.org/abs/2007.07214)**)
 
   - [CenterMask](https://github.com/youngwanLEE/centermask2) <img src="https://img.shields.io/github/stars/youngwanLEE/centermask2?style=social"/> : "CenterMask: Real-Time Anchor-Free Instance Segmentation". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_CenterMask_Real-Time_Anchor-Free_Instance_Segmentation_CVPR_2020_paper.html)**)
 
@@ -61,6 +63,12 @@
 
   - [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) <img src="https://img.shields.io/github/stars/RangiLyu/nanodet?style=social"/> : NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥.
 
+  - [AlignPS](https://github.com/daodaofr/AlignPS) <img src="https://img.shields.io/github/stars/daodaofr/AlignPS?style=social"/> : "Anchor-Free Person Search". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Yan_Anchor-Free_Person_Search_CVPR_2021_paper.html)**)
+
+  - [ByteTrack](https://github.com/ifzhang/ByteTrack) <img src="https://img.shields.io/github/stars/ifzhang/ByteTrack?style=social"/> : "ByteTrack: Multi-Object Tracking by Associating Every Detection Box". (**[arXiv 2021](https://arxiv.org/abs/2110.06864)**)
+
+  - [FII-CenterNet](https://github.com/leofansq/FII-CenterNet) <img src="https://img.shields.io/github/stars/leofansq/FII-CenterNet?style=social"/> : "FII-CenterNet: An Anchor-Free Detector With Foreground Attention for Traffic Object Detection". (**[IEEE TVT 2021](https://ieeexplore.ieee.org/abstract/document/9316984)**)
+
 
 ## Applications
 
@@ -75,6 +83,8 @@
   - [CaptainEven/MCMOT](https://github.com/CaptainEven/MCMOT) <img src="https://img.shields.io/github/stars/DataXujing/CornerNet-Lite-Pytorch?style=social"/> : Real time one-stage multi-class & multi-object tracking based on anchor-free detection and ReID.
 
   - [DataXujing/CornerNet-Lite-Pytorch](https://github.com/DataXujing/CornerNet-Lite-Pytorch) <img src="https://img.shields.io/github/stars/DataXujing/CornerNet-Lite-Pytorch?style=social"/> : 🚨🚨🚨 CornerNet:基于虚拟仿真环境下的自动驾驶交通标志识别。
+
+  - [HaiNguyen2903/CenterFace](https://github.com/HaiNguyen2903/CenterFace) <img src="https://img.shields.io/github/stars/HaiNguyen2903/CenterFace?style=social"/> : Using free anchor method to solve Object Detection problem.
 
 
 ## Others
