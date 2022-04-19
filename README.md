@@ -55,8 +55,6 @@
 
   - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
 
-  - [Bigtuo/YOLOX-Lite](https://github.com/Bigtuo/YOLOX-Lite) <img src="https://img.shields.io/github/stars/Bigtuo/YOLOX-Lite?style=social"/> : 将YOLOv5-Lite代码中的head更换为YOLOX head。
-
   - [DAFNe](https://github.com/steven-lang/DAFNe) <img src="https://img.shields.io/github/stars/steven-lang/DAFNe?style=social"/> : "DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection". (**[arXiv 2021](https://arxiv.org/abs/2109.06148)**)
 
   - [FCAF3D](https://github.com/SamsungLabs/fcaf3d) <img src="https://img.shields.io/github/stars/SamsungLabs/fcaf3d?style=social"/> : "FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection". (**[arXiv 2021](https://arxiv.org/abs/2112.00322)**)
@@ -80,12 +78,15 @@
 
   - [TraDeS](https://github.com/JialianW/TraDeS) <img src="https://img.shields.io/github/stars/JialianW/TraDeS?style=social"/> : "Track to Detect and Segment: An Online Multi-Object Tracker". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Track_To_Detect_and_Segment_An_Online_Multi-Object_Tracker_CVPR_2021_paper.html)**)
 
+  - [DSFNet](https://github.com/ChaoXiao12/Moving-object-detection-DSFNet) <img src="https://img.shields.io/github/stars/ChaoXiao12/Moving-object-detection-DSFNet?style=social"/> : "DSFNet: Dynamic and Static Fusion Network for Moving Object Detection in Satellite Videos". (**[IEEE Geoscience and Remote Sensing Letters 2021](https://ieeexplore.ieee.org/abstract/document/9594855)**)
+
   - [CaptainEven/MCMOT](https://github.com/CaptainEven/MCMOT) <img src="https://img.shields.io/github/stars/DataXujing/CornerNet-Lite-Pytorch?style=social"/> : Real time one-stage multi-class & multi-object tracking based on anchor-free detection and ReID.
 
   - [DataXujing/CornerNet-Lite-Pytorch](https://github.com/DataXujing/CornerNet-Lite-Pytorch) <img src="https://img.shields.io/github/stars/DataXujing/CornerNet-Lite-Pytorch?style=social"/> : 🚨🚨🚨 CornerNet:基于虚拟仿真环境下的自动驾驶交通标志识别。
 
   - [HaiNguyen2903/CenterFace](https://github.com/HaiNguyen2903/CenterFace) <img src="https://img.shields.io/github/stars/HaiNguyen2903/CenterFace?style=social"/> : Using free anchor method to solve Object Detection problem.
 
+  - [Bigtuo/YOLOX-Lite](https://github.com/Bigtuo/YOLOX-Lite) <img src="https://img.shields.io/github/stars/Bigtuo/YOLOX-Lite?style=social"/> : 将YOLOv5-Lite代码中的head更换为YOLOX head。
 
 ## Others
 
