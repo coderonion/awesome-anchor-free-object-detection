@@ -67,6 +67,8 @@
 
   - [FII-CenterNet](https://github.com/leofansq/FII-CenterNet) <img src="https://img.shields.io/github/stars/leofansq/FII-CenterNet?style=social"/> : "FII-CenterNet: An Anchor-Free Detector With Foreground Attention for Traffic Object Detection". (**[IEEE TVT 2021](https://ieeexplore.ieee.org/abstract/document/9316984)**)
 
+  - [CenterNet++](https://github.com/Duankaiwen/PyCenterNet) <img src="https://img.shields.io/github/stars/Duankaiwen/PyCenterNet?style=social"/> : "CenterNet++ for Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2204.08394)**)
+
 
 ## Applications
 
