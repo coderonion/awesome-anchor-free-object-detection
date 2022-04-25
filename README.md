@@ -55,11 +55,13 @@
 
   - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
 
+  - [YOLOR](https://github.com/WongKinYiu/yolor) <img src="https://img.shields.io/github/stars/WongKinYiu/yolor?style=social"/> : "You Only Learn One Representation: Unified Network for Multiple Tasks". (**[arXiv 2021](https://arxiv.org/abs/2105.04206)**)
+  
   - [DAFNe](https://github.com/steven-lang/DAFNe) <img src="https://img.shields.io/github/stars/steven-lang/DAFNe?style=social"/> : "DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection". (**[arXiv 2021](https://arxiv.org/abs/2109.06148)**)
 
   - [FCAF3D](https://github.com/SamsungLabs/fcaf3d) <img src="https://img.shields.io/github/stars/SamsungLabs/fcaf3d?style=social"/> : "FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection". (**[arXiv 2021](https://arxiv.org/abs/2112.00322)**)
 
-  - [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) <img src="https://img.shields.io/github/stars/RangiLyu/nanodet?style=social"/> : NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥.
+  - [NanoDet-Plus](https://github.com/RangiLyu/nanodet) <img src="https://img.shields.io/github/stars/RangiLyu/nanodet?style=social"/> : NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥.
 
   - [AlignPS](https://github.com/daodaofr/AlignPS) <img src="https://img.shields.io/github/stars/daodaofr/AlignPS?style=social"/> : "Anchor-Free Person Search". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Yan_Anchor-Free_Person_Search_CVPR_2021_paper.html)**)
 
