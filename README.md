@@ -92,6 +92,9 @@ This repository lists some awesome Anchor-Free object detection series projects.
 
   - [Bigtuo/YOLOX-Lite](https://github.com/Bigtuo/YOLOX-Lite) <img src="https://img.shields.io/github/stars/Bigtuo/YOLOX-Lite?style=social"/> : 将YOLOv5-Lite代码中的head更换为YOLOX head。
 
+  - [DSFNet](https://github.com/ChaoXiao12/Moving-object-detection-DSFNet) <img src="https://img.shields.io/github/stars/ChaoXiao12/Moving-object-detection-DSFNet?style=social"/> : "DSFNet: Dynamic and Static Fusion Network for Moving Object Detection in Satellite Videos". (**[IEEE Geoscience and Remote Sensing Letters 2021](https://ieeexplore.ieee.org/abstract/document/9594855)**)
+
+
 ## Others
 
   - [XinZhangNLPR/awesome-anchor-free-object-detection](https://github.com/XinZhangNLPR/awesome-anchor-free-object-detection) <img src="https://img.shields.io/github/stars/XinZhangNLPR/awesome-anchor-free-object-detection?style=social"/> : In this project, we focus on collection the anchor free object detection paper or code. 
