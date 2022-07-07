@@ -71,6 +71,8 @@ This repository lists some awesome Anchor-Free object detection series projects.
 
   - [CenterNet++](https://github.com/Duankaiwen/PyCenterNet) <img src="https://img.shields.io/github/stars/Duankaiwen/PyCenterNet?style=social"/> : "CenterNet++ for Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2204.08394)**)
 
+  - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) <img src="https://img.shields.io/github/stars/dog-qiuqiu/FastestDet?style=social"/> : ⚡ A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is simpler. (**[知乎 2022](https://zhuanlan.zhihu.com/p/536500269)**)   
+
 
 ## Applications
 
