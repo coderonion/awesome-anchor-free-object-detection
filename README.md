@@ -75,7 +75,9 @@
 
   - [AIRDet](https://github.com/tinyvision/AIRDet) <img src="https://img.shields.io/github/stars/tinyvision/AIRDet?style=social"/> : Welcome to AIRDet! AIRDet is an efficiency-oriented anchor-free object detector, aims to enable robust object detection in various industry scene.
 
-  - [YOLOv6](https://github.com/meituan/YOLOv6) <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social"/> : YOLOv6: a single-stage object detection framework dedicated to industrial application. "美团技术团队：《[YOLOv6：又快又准的目标检测框架开源啦](https://mp.weixin.qq.com/s/RrQCP4pTSwpTmSgvly9evg)》"
+  - [YOLOv6](https://github.com/meituan/YOLOv6) <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social"/> : "YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications". (**[arXiv 2022](https://arxiv.org/abs/2209.02976)**).  "微信公众号「美团技术团队」《[YOLOv6：又快又准的目标检测框架开源啦](https://mp.weixin.qq.com/s/RrQCP4pTSwpTmSgvly9evg)》"。 "微信公众号「美团技术团队」《[目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦 ](https://mp.weixin.qq.com/s/9FyvWrHErfgJrVXIC_PKqg)》"。 "微信公众号「集智书童」《[超越YOLOv7 | YOLOv6论文放出，重参+自蒸馏+感知量化+...各种Tricks大放异彩](https://mp.weixin.qq.com/s/DPHC7bO1Q-IKDUqPU7DSJA)》"
+
+  - [YOLOX-PAI](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**). "微信公众号「集智书童」《[YOLOX升级 | 阿里巴巴提出YOLOX-PAI，1ms内精度无敌，超越YOLOv6、PP-YOLOE](https://mp.weixin.qq.com/s/bIu3cYyZ-fVb5iB0bTfyug)》"
 
 
 ## Applications
